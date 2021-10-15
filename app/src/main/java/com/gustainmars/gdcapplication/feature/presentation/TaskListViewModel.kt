@@ -12,7 +12,7 @@ import java.lang.IllegalArgumentException
 class TaskListViewModel (application: Application): AndroidViewModel(application) {
 
     private val repository: TaskRepository
-    private val alltasks: LiveData<List<TaskDto>>
+    val alltasks: LiveData<List<TaskDto>>
 
     init {
         val dao: TaskDao = AppDataBase.getDataBase(application).taskDao()
