@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/gmart/AndroidStudioProjects/GdcApplication/app/src/main/res/layout/activity_gdc.xml" value="0.25" />
         <entry key="..\:/Users/gmart/AndroidStudioProjects/GdcApplication/app/src/main/res/layout/content_gdc.xml" value="0.1" />
+        <entry key="..\:/Users/gmart/AndroidStudioProjects/GdcApplication/app/src/main/res/layout/fragment_first.xml" value="0.1" />
       </map>
     </option>
   </component>
